@@ -1,0 +1,5 @@
+www.example.com=192.168.1.101
+www.google.com=8.8.8.8
+www.github.com=192.30.255.113
+www.stackoverflow.com=151.101.1.69
+www.reddit.com=151.101.1.70
